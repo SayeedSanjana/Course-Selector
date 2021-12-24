@@ -1,0 +1,315 @@
+{
+  "students":[
+      {
+          "name":"Iktisad Rashid",
+          "id":10001,
+          "email":"iktisad.rashid@gmail.com",
+          "advisor":"Golam Rabiul",
+          "major":"CSE",
+          "phone":"09876543212",
+          "courses":[
+              {
+               "name":"Basic Programming Language",
+               "credit":3,
+               "semester":"Spring 2021",
+               "courseCode":"CSE110",
+               "faculty":"Shakib Al Hasan",
+               "day":["Sunday,Tuesday"],
+               "startTime":"8:30am",
+               "endTime":"9:20am",
+               "description":"orem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+              },
+              {
+               "name":"Differential Calculus And Coordinates",
+               "credit":3,
+               "semester":"Spring 2021",
+               "courseCode":"MAT110",
+               "faculty":"Mustafizur Rahman",
+               "day":["Monday,Wednesday"],
+               "startTime":"8:30am",
+               "endTime":"9:20am",
+               "description":"orem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+              },
+              {
+               "name":"Fundamentals Of English",
+               "credit":3,
+               "semester":"Spring 2021",
+               "courseCode":"ENG101",
+               "faculty":"Shakib Al Hasan",
+               "day":["Saturday,Thursday"],
+               "startTime":"8:30am",
+               "endTime":"9:20am",
+               "description":"orem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+              }
+          ]
+
+      },
+      {
+       "name":"Shihab Uddin Chowdhury",
+       "id":10002,
+       "email":"shihab.chowdhury@gmail.com",
+       "advisor":"Mohammad Zaved Parvez",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Basic Programming Language",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+            
+           },
+           {
+            "name":"Discrete Mathematics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE230",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Saturday,Thursday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           }
+       ]
+
+   },
+   {
+       "name":"Md Tanvir Turja",
+       "id":10003,
+       "email":"tanvir.turja@gmail.com",
+       "advisor":"Rasif Ajwad",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Basic Programming Language",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Digital Logic Design",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE260",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Saturday,Thursday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+
+           }
+       ]
+
+   },
+   {
+       "name":"Shah Faiza Zarin",
+       "id":10004,
+       "email":"faiza.zarin@gmail.com",
+       "advisor":"Hossain Arif",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Differential Calculus And Coordinates",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"MAT110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Digital Logic Design",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE260",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Saturday,Thursday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+
+           }
+       ]
+   },
+   {
+       "name":"Samee Sayeed",
+       "id":10005,
+       "email":"samee.sayeed@gmail.com",
+       "advisor":"Hossain Arif",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Differential Calculus And Coordinates",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"MAT110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Digital Logic Design",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE260",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Saturday,Thursday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+
+           }
+       ]
+   },
+   {
+       "name":"Moonami Sharmita Azad",
+       "id":10006,
+       "email":"moonami.azad@gmail.com",
+       "advisor":"Faisal Ahmed",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Basic Programming Language",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Discrete Mathematics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE230",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Saturday,Thursday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           }
+       ]
+   },
+   {
+       "name":"Sanjana Sayeed",
+       "id":10007,
+       "email":"sanjana_sayeed@gmail.com",
+       "advisor":"Faisal Ahmed",
+       "phone":"09876543212",
+       "courses":[
+           {
+            "name":"Basic Programming Language",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"CSE110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Monday,Wednesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           },
+           {
+            "name":"Fundamental Of Physics",
+            "credit":3,
+            "semester":"Spring 2021",
+            "courseCode":"PHY110",
+            "faculty":"Shakib Al Hasan",
+            "day":["Sunday,Tuesday"],
+            "startTime":"8:30am",
+            "endTime":"9:20am",
+            "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+           }
+       ]
+
+   }
+   ]
+}
