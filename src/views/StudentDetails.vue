@@ -4,11 +4,11 @@
             <h1 class="font-semibold text-purple-400 text-3xl text-left mb-10">Spring 2021</h1>
             <!--syudent info-->
             <div class="bg-white shadow overflow-hidden sm:rounded-lg">
-  <div class="px-4 py-5 sm:px-6">
-    <h3 class="text-lg leading-6 font-medium text-gray-900 text-left">
+  <div class="px-4 py-5 sm:px-6 ">
+    <h3 class="text-lg leading-6 font-medium text-gray-900 lg:text-left sm:text-center">
       Student Information
     </h3>
-    <p class="mt-1 max-w-2xl text-sm text-gray-500 text-left">
+    <p class="mt-1 max-w-2xl text-sm text-gray-500 lg:text-left sm:text-center">
       Personal information and course details.
     </p>
   </div>
@@ -56,8 +56,8 @@
       </div>
     </dl>
   </div>
-  <div class="px-4 py-5 sm:px-6">
-    <h3 class="text-lg leading-6 font-medium text-gray-900 text-left mt-10 mb-5">
+  <div class="px-4 py-5 sm:px-6 ">
+    <h3 class="text-lg leading-6 font-bold text-gray-900 lg:text-left sm:text-center mt-10 mb-5 ">
       Course Details
     </h3>
 </div>
