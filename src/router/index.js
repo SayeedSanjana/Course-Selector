@@ -1,11 +1,23 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import StudentList from '../views/StudentList.vue'
 import StudentDetails from "../views/StudentDetails.vue";
-import CourseList from "../views/CourseList.vue"
+import CourseList from "../views/CourseList.vue";
+import Login from "../views/Login.vue";
+import Register from "../views/Register.vue";
 
 const routes = [
   {
     path: '/',
+    name: 'Login',
+    component: Login
+  },
+  {
+    path: '/register',
+    name: 'Register',
+    component: Register
+  },
+  {
+    path: '/student-list',
     name: 'StudentList',
     component: StudentList
   },
