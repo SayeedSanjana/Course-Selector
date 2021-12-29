@@ -311,5 +311,78 @@
        ]
 
    }
+   ],
+   "courses":[
+    {
+        "name":"Fundamental Of Physics",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"PHY110",
+        "faculty":"Shakib Al Hasan",
+        "day":["Sunday,Tuesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"Lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+       },
+       {
+        "name":"Basic Programming Language",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"CSE110",
+        "faculty":"Shakib Al Hasan",
+        "day":["Monday,Wednesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+       },
+       {
+        "name":"Discrete Mathematics",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"CSE230",
+        "faculty":"Shakib Al Hasan",
+        "day":["Monday,Wednesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+       },
+       {
+        "name":"Discrete Mathematics",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"CSE230",
+        "faculty":"Shakib Al Hasan",
+        "day":["Monday,Wednesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+       },
+       {
+        "name":"Discrete Mathematics",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"CSE231",
+        "faculty":"Shakib Al Hasan",
+        "day":["Monday,Wednesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+       },
+       {
+        "name":"Discrete Mathematics",
+        "credit":3,
+        "semester":"Spring 2021",
+        "courseCode":"CSE231",
+        "faculty":"Shakib Al Hasan",
+        "day":["Monday,Wednesday"],
+        "startTime":"8:30am",
+        "endTime":"9:20am",
+        "description":"lorem ipsum dolor sit amet  consectetur adipiscing elit, sed do eiusmod tempor   incididunt ut labore et dolore magna aliqua"
+
+       }
    ]
+
 }

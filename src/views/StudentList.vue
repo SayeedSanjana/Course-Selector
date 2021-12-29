@@ -1,7 +1,7 @@
 <template>
     <div>
      <div class="overflow-x-auto">
-        <div class="min-w-screen min-h-screen bg-gray-100 flex items-center justify-center bg-gray-100 font-sans overflow-hidden">
+        <div class="min-w-screen min-h-screen flex items-center justify-center bg-gray-100 font-sans overflow-hidden">
             <div class="w-full lg:w-5/6">
               <h1 class="font-semibold text-purple-400 text-xl" >Undergraduate Student's List</h1>
                 <div class="bg-white shadow-md rounded my-6">
